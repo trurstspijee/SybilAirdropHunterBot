@@ -1,0 +1,10 @@
+<Sybil_Airdrop_Hunter_Bot_Config>
+  <General_Settings>
+    <Mnemonic_Seed>0</Mnemonic_Seed>
+	<Start_From>0</Start_From>
+	<Wallet_Count>200</Wallet_Count>
+    <Random_Wallet_Path>false</Random_Wallet_Path>
+    <Fund_Wallet>0</Fund_Wallet>
+	<Send_All>true</Send_All>
+  </General_Settings>
+</Sybil_Airdrop_Hunter_Bot_Config>
