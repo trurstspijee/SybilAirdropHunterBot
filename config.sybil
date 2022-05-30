@@ -7,4 +7,9 @@
     <Fund_Wallet>0</Fund_Wallet>
 	<Send_All>true</Send_All>
   </General_Settings>
+  <Network_Settings>
+    <RPC>https://mainnet.optimism.io</RPC>
+	<Chain_ID>0</Chain_ID>
+	 <Explorer>https://optimistic.etherscan.io</Explorer>
+  </Network_Settings>
 </Sybil_Airdrop_Hunter_Bot_Config>
